@@ -8,6 +8,7 @@ description:Recommended weapons including perks mainly PVP focused.
 // 2nd Slot (Magazine):	Seraph Rounds/Accurized Rounds/Ricochet Rounds/High-Caliber Rounds/Light Mag/Armor-Piercing Rounds
 // 3rd Slot (Trait):	Hip-Fire Grip
 // 4th slot (Trait):	Tap the Trigger
+// Masterwork			
 
 
 //Borrowed Time
@@ -56,9 +57,8 @@ dimwishlist:item=3341893443&perks=4090651448,3142289711,972757866,2846385770
 dimwishlist:item=3341893443&perks=1482024992,3142289711,2450788523,2846385770
 dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770
 
-
 //Shayura's Wrath (Adept)
-//notes:MW Range
+//notes:fAM's God Roll recommends Hip-Fire Grip and Tap the Trigger with a Range MW
 dimwishlist:item=4023807721&perks=202670084,1140096971,1866048759,1890422124
 dimwishlist:item=4023807721&perks=3250034553,1140096971,1866048759,1890422124
 dimwishlist:item=4023807721&perks=1467527085,1140096971,1866048759,1890422124
@@ -95,6 +95,9 @@ dimwishlist:item=4023807721&perks=1467527085,1968497646,1866048759,1890422124
 dimwishlist:item=4023807721&perks=1482024992,1968497646,1866048759,1890422124
 dimwishlist:item=4023807721&perks=4090651448,1968497646,1866048759,1890422124
 dimwishlist:item=4023807721&perks=2420895100,1968497646,1866048759,1890422124
+
+
+
 
 
 
