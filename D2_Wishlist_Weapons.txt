@@ -2,9 +2,9 @@ title:fAM's D2_Wishlist_Weapons
 description:Recommended weapons including perks mainly PVP focused.
 
 //Borrowed Time
-//notes:MW: Range
-dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,1890422124#notes:MW: Range; GOD ROLL
-dimwishlist:item=875848769&perks=3250034553,1885400500,2846385770,1890422124notes:MW: Range; GOD ROLL
+//notes:Range MW
+dimwishlist:item=875848769&perks=202670084,1885400500,2846385770,1890422124#notes:Range MW; GOD ROLL
+dimwishlist:item=875848769&perks=3250034553,1885400500,2846385770,1890422124#notes:Range MW; GOD ROLL
 dimwishlist:item=875848769&perks=1482024992,1885400500,2846385770,1890422124
 dimwishlist:item=875848769&perks=202670084,1561002382,2846385770,1890422124
 dimwishlist:item=875848769&perks=3250034553,1561002382,2846385770,1890422124
