@@ -7,7 +7,7 @@ description:Recommended weapons including perks mainly PVP focused.
 // 2nd Slot (Magazine):	1140096971 3142289711 1885400500 1561002382 679225683 1968497646
 // 2nd Slot (Magazine):	Seraph Rounds/Accurized Rounds/Ricochet Rounds/High-Caliber Rounds/Light Mag/Armor-Piercing Rounds
 // 3rd Slot (Trait):	Dynamic Sway Reduction/Encore/Eye of the Storm/Fragile Focus/Hip-Fire Grip/Iron Reach/Killing Wind/No Distractions/Perpetual Motion/Pulse Monitor/Zen Moment
-// 4th slot (Trait):	Focused Fury/Kill Clip/Rangefinder/Snapshot Sights/Tap the Trigger/
+// 4th slot (Trait):	Desperado/Focused Fury/Kill Clip/Rangefinder/Snapshot Sights/Tap the Trigger/
 // Masterwork			
 
 
@@ -1211,8 +1211,9 @@ dimwishlist:item=294129361&perks=1482024992,1968497646,1359896290,2896038713
 dimwishlist:item=294129361&perks=4090651448,1968497646,1359896290,2896038713
 dimwishlist:item=294129361&perks=2420895100,1968497646,1359896290,2896038713
 
-
-
+//Yesteryear
+//notes:fAM's recommended God Roll includes "Perpetual Motion" and "Desperado" with a Range MW
+dimwishlist:item=1141927949&perks=839105230,1885400500,1428297954,3047969693,515704826
 
 
 
