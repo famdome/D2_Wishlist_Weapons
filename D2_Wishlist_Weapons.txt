@@ -96,7 +96,7 @@ dimwishlist:item=2490988246&perks=4090651448,1968497646,4071163871,1890422124
 dimwishlist:item=2490988246&perks=2420895100,1968497646,4071163871,1890422124
 
 //Cataclysmic
-//notes:fAM's recommended God Roll includes "Fourth Time's the Charm" and "Bait and Switch" with a Reload MW
+//notes:fAM's recommended God Roll includes "Fourth Time's the Charm" and "Bait and Switch" with a Reload MW #PVE
 dimwishlist:item=999767358&perks=1354429876,3078487919
 
 //Enyo-D
