@@ -7,9 +7,16 @@ description:Recommended weapons including perks mainly PVP focused.
 // 2nd Slot (Magazine):	1140096971 3142289711 1885400500 1561002382 679225683 1968497646
 // 2nd Slot (Magazine):	Seraph Rounds/Accurized Rounds/Ricochet Rounds/High-Caliber Rounds/Light Mag/Armor-Piercing Rounds
 // 3rd Slot (Trait):	Dynamic Sway Reduction/Encore/Eye of the Storm/Fragile Focus/Hip-Fire Grip/Iron Reach/Killing Wind/No Distractions/Perpetual Motion/Pulse Monitor/Zen Moment
-// 4th slot (Trait):	Desperado/Focused Fury/Kill Clip/Rangefinder/Snapshot Sights/Tap the Trigger/
+// 4th slot (Trait):	Desperado/Focused Fury/Kill Clip/Opening Shot/Rangefinder/Snapshot Sights/Tap the Trigger/
 // Masterwork			
 
+
+//Austringer
+//notes:Craft: Rangefinder Snappy Austringer
+dimwishlist:item=3055790362&perks=1840239774,1885400500,4116820839,509594246
+//notes:Craft: Normal Zoom Duelist
+dimwishlist:item=3055790362&perks=1840239774,1885400500,699525795,47981717
+dimwishlist:item=3055790362&perks=1840239774,1885400500,957782887,47981717
 
 //Borrowed Time
 //notes:fAM's recommended God Roll includes "Rangefinder" and "Tap the Trigger" with a Range MW
