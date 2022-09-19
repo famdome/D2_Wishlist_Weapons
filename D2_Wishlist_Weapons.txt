@@ -250,6 +250,10 @@ dimwishlist:item=3341893443&perks=4090651448,3142289711,972757866,2846385770
 dimwishlist:item=3341893443&perks=1482024992,3142289711,2450788523,2846385770
 dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770
 
+//Half-Truths
+//notes:fAM's recommended God Roll includes "Tireless Blade" and "Eager Edge"
+dimwishlist:item=3257091166&perks=1261178282,3625355092,4183521337,1618208178
+
 //IKELOS_SMG_v1.0.2
 //notes:fAM's recommended God Roll includes "Dynamic Sway Reduction" and "Tap the Trigger" with a Range MW
 dimwishlist:item=2222560548&perks=202670084,1140096971,1359896290,1890422124
@@ -1188,6 +1192,10 @@ dimwishlist:item=2488587246&perks=1467527085,1968497646,2387244414,591790007
 dimwishlist:item=2488587246&perks=1482024992,1968497646,2387244414,591790007
 dimwishlist:item=2488587246&perks=4090651448,1968497646,2387244414,591790007
 dimwishlist:item=2488587246&perks=2420895100,1968497646,2387244414,591790007
+
+//The Other Half
+//notes:fAM's recommended God Roll includes "Eager Edge" and "Vorpal"
+dimwishlist:item=3257091167&perks=1261178282,3625355092,2077819806,3418165135
 
 //The Title
 //notes:fAM's recommended God Roll includes "Dynamic Sway Reduction" and "Focused Fury" with a Range MW. Tipp: Origin-Trait "Hakke Breach Armaments" with extra Damage against Titan Barricades.
