@@ -102,9 +102,30 @@ dimwishlist:item=2490988246&perks=1482024992,1968497646,4071163871,1890422124
 dimwishlist:item=2490988246&perks=4090651448,1968497646,4071163871,1890422124
 dimwishlist:item=2490988246&perks=2420895100,1968497646,4071163871,1890422124
 
+//Cantata-57
+//notes:fAM's recommended God Roll includes "Eye of the Storm" and "Rangefinder" with a Range MW
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,2846385770
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,2846385770
+dimwishlist:item=372697604&perks=1840239774,3142289711,699525795,2846385770
+
 //Cataclysmic
 //notes:fAM's recommended God Roll includes "Fourth Time's the Charm" and "Bait and Switch" with a Reload MW #PVE
 dimwishlist:item=999767358&perks=1354429876,3078487919
+
+//Crisis Inverted
+//notes:fAM's recommended God Roll includes "Rapid Hit" and "Snapshot Sights" with a Range MW
+dimwishlist:item=2888266564&perks=1840239774,3142289711,247725512,47981717
+dimwishlist:item=2888266564&perks=1840239774,1561002382,247725512,47981717
+dimwishlist:item=2888266564&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=2888266564&perks=1840239774,1561002382,588594999,47981717
+dimwishlist:item=2888266564&perks=1840239774,3142289711,247725512,957782887
+dimwishlist:item=2888266564&perks=1840239774,1561002382,247725512,957782887
+dimwishlist:item=2888266564&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=2888266564&perks=1840239774,1561002382,588594999,957782887
+dimwishlist:item=2888266564&perks=1840239774,3142289711,247725512,1015611457
+dimwishlist:item=2888266564&perks=1840239774,1561002382,247725512,1015611457
+dimwishlist:item=2888266564&perks=1840239774,3142289711,588594999,1015611457
+dimwishlist:item=2888266564&perks=1840239774,1561002382,588594999,1015611457
 
 //Enyo-D
 //notes:fAM's recommended God Roll includes "Fragile Focus" and "Multikill Clip" with a Range MW
@@ -243,6 +264,13 @@ dimwishlist:item=1097616550&perks=1467527085,1968497646,2387244414,1890422124
 dimwishlist:item=1097616550&perks=1482024992,1968497646,2387244414,1890422124
 dimwishlist:item=1097616550&perks=4090651448,1968497646,2387244414,1890422124
 dimwishlist:item=1097616550&perks=2420895100,1968497646,2387244414,1890422124
+
+//Fatebringer (Timelost)
+//notes:fAM's recommended God Roll includes "Explosive Payload" and "Eye of the Storm" with a Range MW
+dimwishlist:item=1216319404&perks=1482024992,3142289711,64866129,3719974635
+dimwishlist:item=1216319404&perks=1840239774,3142289711,64866129,3719974635
+dimwishlist:item=1216319404&perks=1482024992,3142289711,64866129,47981717
+dimwishlist:item=1216319404&perks=1840239774,3142289711,64866129,47981717
 
 //Funnelweb
 //notes:fAM's recommended God Roll includes "Pulse Monitor" and "Rangefinder" with a Range MW
@@ -1251,11 +1279,14 @@ dimwishlist:item=1679868061&perks=4090651448,791862061,191144788,1370847713
 //notes:Tight Spread for breaking Shield and Bubble 
 dimwishlist:item=1679868061&perks=1047830412,3142289711,2898218424,788178929
 
-
 //Yesteryear
 //notes:fAM's recommended God Roll includes "Perpetual Motion" and "Desperado" with a Range MW
 dimwishlist:item=1141927949&perks=839105230,1885400500,1428297954,3047969693,515704826
 
+//Zaouli's Bane
+//notes:fAM's recommended God Roll includes "Explosive Payload" and "Eye of the Storm" with a Range MW
+dimwishlist:item=431721920&perks=1482024992,3142289711,64866129,3719974635
+dimwishlist:item=431721920&perks=1840239774,3142289711,64866129,3719974635
 
 
 
