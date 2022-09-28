@@ -280,6 +280,12 @@ dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770
 //notes:fAM's recommended God Roll includes "Tireless Blade" and "Eager Edge"
 dimwishlist:item=3257091166&perks=1261178282,3625355092,4183521337,1618208178
 
+//Hawkmoon
+//notes:fAM's recommended God Roll includes Perks for Stability and Range
+dimwishlist:item=3856705927&perks=1482024992,2846385770,3326204863
+dimwishlist:item=3856705927&perks=1482024992,47981717,3326204863
+dimwishlist:item=3856705927&perks=1482024992,699525795,3326204863
+
 //IKELOS_SMG_v1.0.2
 //notes:fAM's recommended God Roll includes "Dynamic Sway Reduction" and "Tap the Trigger" with a Range MW
 dimwishlist:item=2222560548&perks=202670084,1140096971,1359896290,1890422124
