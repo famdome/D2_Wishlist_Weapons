@@ -10,6 +10,11 @@ description:Recommended weapons including perks mainly PVP focused.
 // 4th slot (Trait):	Desperado/Focused Fury/Kill Clip/Opening Shot/Rangefinder/Snapshot Sights/Tap the Trigger/
 // Masterwork			
 
+/Allied Demand
+//notes:
+dimwishlist:item=1532276803&perks=202670084,1885400500,2846385770,591790007
+dimwishlist:item=1532276803&perks=3250034553,1885400500,2846385770,591790007
+dimwishlist:item=1532276803&perks=1482024992,1885400500,2846385770,591790007
 
 //Austringer
 //notes:Craft: Rangefinder Snappy Austringer
@@ -313,6 +318,11 @@ dimwishlist:item=2222560548&perks=1467527085,1140096971,1359896290,1890422124
 dimwishlist:item=2222560548&perks=1482024992,1140096971,1359896290,1890422124
 dimwishlist:item=2222560548&perks=4090651448,1140096971,1359896290,1890422124
 dimwishlist:item=2222560548&perks=2420895100,1140096971,1359896290,1890422124
+
+//Liminal Vigil
+//notes:
+dimwishlist:item=3138208275&perks=3250034553,1885400500,1890422124,2846385770
+dimwishlist:item=3138208275&perks=202670084,1885400500,1890422124,2846385770
 
 //Midha's Reckoning
 ////notes:fAM's recommended God Roll includes "Backup Plan" and "Kickstart" with a Range MW
