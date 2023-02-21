@@ -817,6 +817,11 @@ dimwishlist:item=4100775158&perks=1482024992,1968497646,699525795,2846385770
 dimwishlist:item=4100775158&perks=4090651448,1968497646,699525795,2846385770
 dimwishlist:item=4100775158&perks=2420895100,1968497646,699525795,2846385770
 
+/Rose
+//notes:fAM's recommended God Roll includes "No Distractions" and "Snapshot Sights" with a Range MW and Smooth Grip
+dimwishlist:item=882778888&perks=1482024992,3142289711,3161816588,2846385770,3326204863
+dimwishlist:item=882778888&perks=1482024992,3142289711,3161816588,3038247973,3326204863
+
 //Servant Leader
 //notes:fAM's recommended God Roll includes "No Distractions" and "Snapshot Sights" with a Range MW
 dimwishlist:item=1107446438&perks=839105230,3177308360,2866798147,957782887
